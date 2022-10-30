@@ -115,3 +115,4 @@ async def main():
     await asyncio.gather(*tasks)
 
 asyncio.run(main())
+это парсер
